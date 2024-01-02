@@ -1,0 +1,4 @@
+/macroicon Vent action
+/act Vent <t>
+/act Vent <tt>
+/act Vent <f>
