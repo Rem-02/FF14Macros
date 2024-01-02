@@ -1,0 +1,9 @@
+/macroicon Pêche action
+/act Pêche
+/act Ferrage <wait.5>
+/e 5 <wait.5>
+/e 10 <wait.5>
+/e 15 <wait.5>
+/e 20 <wait.5>
+/e 25 <wait.5>
+/e 30
