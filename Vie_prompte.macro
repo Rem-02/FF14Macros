@@ -1,0 +1,3 @@
+/macroicon "Vie" action
+/act "Magie Pompte" <wait.1>
+/act "Vie"
